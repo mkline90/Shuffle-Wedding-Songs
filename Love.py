@@ -1,5 +1,5 @@
 # Shuffle-Wedding-Songs
-Shuffles through song titles that were on our wedding CD
+# Shuffles through song titles that were on our wedding CD
 
 from tkinter import *
 from random import choice
